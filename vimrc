@@ -14,6 +14,9 @@
 
 
  " 見た目系
+ syntax on
+ colorscheme molokai
+
  " 行番号を表示
  set number
  " 現在の行を強調表示
