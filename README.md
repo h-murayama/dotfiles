@@ -8,6 +8,6 @@ $ git clone https://github.com/h-murayama/dotfiles.git
 
 $ cd dotfiles
 
-$ chmod +x dotfiles_link.sh
+$ chmod +x dotfiles_links.sh
 
-$ ./dotfiles_link.sh
+$ ./dotfiles_links.sh
